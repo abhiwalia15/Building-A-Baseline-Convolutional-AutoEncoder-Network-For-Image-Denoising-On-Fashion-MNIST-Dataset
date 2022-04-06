@@ -1,0 +1,2 @@
+# Building-A-Baseline-Convolutional-AutoEncoder-Network-For-Image-Denoising-On-Fashion-MNIST-Dataset
+We will build a simple baseline autoencoder model using TensorFlow and the CNN network. Then we will use this network on the FASHION MNIST dataset to show our results and accuracy. We will evaluate our model using a simple CNN network to show how our autoencoder model performs better than a stand-alone CNN model.
